@@ -1,2 +1,4 @@
 # hello-world
-Following the Git hello world guide.
+
+Hello, I'm Zanghar and I'm a newbie.
+I wonder what's the name of Github mascot ..
